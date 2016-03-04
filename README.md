@@ -1,2 +1,3 @@
 # hello-world
-努力学习前端
+
+Hello,I am a sophomore and I love IT.
